@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Apple-98
+- 👋 Hi, I’m @wangui-ann
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on programming projects
